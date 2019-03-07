@@ -5,3 +5,6 @@
 // array in the same sequential order as the old array 
 // (minus duplicates).
 
+function removeDups($arr) {
+    
+}
