@@ -4,5 +4,8 @@
 // returns the highest and lowest number (as a string).
 
 function highLow($str) {
+    $x = count(explode(" ", $str));
     
 }
+
+echo highLow("1 2 3 4 5");
