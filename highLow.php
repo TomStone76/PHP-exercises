@@ -5,7 +5,9 @@
 
 function highLow($str) {
     $x = count(explode(" ", $str));
-    
+    if ($x === 1) {
+        
+    }
 }
 
 echo highLow("1 2 3 4 5");
