@@ -6,7 +6,7 @@
 function highLow($str) {
     $x = count(explode(" ", $str));
     if ($x === 1) {
-        
+    
     }
 }
 
