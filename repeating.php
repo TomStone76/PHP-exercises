@@ -1,8 +1,13 @@
 <?php
 function doubleChar($str) {
-    $newStr = '';
-    for ($)
+    for ($i = 0, $n = explode('', $str).length; $i < $n; $i++) {
+        $newStr += str[i] + str[i];
+    }
+    return $newStr;
 }
+
+echo doubleChar("String");
+echo double
 
 
 
@@ -13,3 +18,5 @@ function doubleChar($str) {
 //     }
 //     return newStr;
 // }
+
+//explode(" ", $pizza);
