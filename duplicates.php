@@ -6,5 +6,5 @@
 // (minus duplicates).
 
 function removeDups($arr) {
-    $duplicates = 
+    $duplicates = 0;
 }
